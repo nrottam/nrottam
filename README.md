@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nrottam
+- 👋 Hi, I’m Narottam Kumar
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning Data Science, Machine Learning, Neural Network and NLP
 - 💞️ I’m looking to collaborate on OPen source contribution, data science projets and collaboration
